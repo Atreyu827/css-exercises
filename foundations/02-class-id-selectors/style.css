@@ -1,6 +1,5 @@
 /* Class selectors */
-.odd-numbers,
-.third-element {
+.odd-numbers {
     background-color: lightpink;
     font-family: Verdana, "DejaVu Sans", sans-serif;
 }
